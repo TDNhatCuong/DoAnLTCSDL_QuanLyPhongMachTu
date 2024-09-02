@@ -9,3 +9,4 @@ III. Xây dụng đề tài
 - Mô tả chức năng: Lược đồ Usecase, Đặc tả Usecase, Lược đồ FDD, Mô hình hóa (Biểu đồ BLD)
 - Mô tả dữ liệu: Lược đồ CSDL quan hệ, Lược đồ RD, Sơ đồ ERD
 - Thiết kế giao diện
+[Uploading BÁO CÁO ĐỒ ÁN MÔN HỌC_ LTCSDL_ Nhom8.pdf…]()
